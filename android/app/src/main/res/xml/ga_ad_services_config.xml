@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ad-services-config>
+    <measurement>
+        <src-of-truth uri="https://adservices.google.com/measurement" />
+        <src-of-truth uri="https://appsflyer.com" /> </measurement>
+    <topics>
+        <src-of-truth uri="https://adservices.google.com/topics" />
+    </topics>
+</ad-services-config>
