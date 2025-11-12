@@ -25,7 +25,7 @@ void main() async {
   await Firebase.initializeApp();
   // --- ADD THIS CODE ---
   RequestConfiguration configuration = RequestConfiguration(
-    testDeviceIds: ["DBB64DAF31C4A709D4F674EE7B51F2A0"], // Use the ID from your log
+    testDeviceIds: ["DBB64DAF31C4A709D4F674EE7B51F2A0"], //sjidfaslfhslakjdfas Use the ID from your log
   );
   MobileAds.instance.updateRequestConfiguration(configuration);
   // --- END ADDED CODE ---
